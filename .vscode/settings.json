@@ -1,0 +1,7 @@
+{
+  "cody.codebase": "ecommerce",
+  "cody.debug.enable": true,
+  "cody.debug.verbose": true,
+  "cody.commandCodeLenses": true,
+  "cody.autocomplete.formatOnAccept": true
+}
